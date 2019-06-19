@@ -6,7 +6,7 @@ description = "Logger middleware for Echo"
   parent = "middleware"
 +++
 
-Logger middleware logs the information about each HTTP request.
+Logger middleware logs the information about each HTTP requst.
 
 *Usage*
 
